@@ -1,0 +1,40 @@
+import { model, Schema } from "mongoose";
+const Order = new Schema({
+    userId                      :   { type : Schema.Types.ObjectId, index : true},
+    placed_by                   :   { type : String, index : true},
+    order_id                    :   { type : String, index : true},
+    exchange_order_id           :   { type : String, index : true},
+    parent_order_id             :   { type : String, index : true},
+    status                      :   { type : String, index : true},
+    status_message              :   { type : String, index : true},
+    status_message_raw          :   { type : String, index : true},
+    order_timestamp             :   { type : String, index : true},
+    exchange_update_timestamp   :   { type : String, index : true},
+    exchange_timestamp          :   { type : String, index : true},
+    variety                     :   { type : String, index : true},
+    modified                    :   { type : String, index : true},
+    exchange                    :   { type : String, index : true},
+    tradingsymbol               :   { type : String, index : true},
+    instrument_token            :   { type : String, index : true},
+    order_type                  :   { type : String, index : true},
+    transaction_type            :   { type : String, index : true},
+    validity                    :   { type : String, index : true},
+    product                     :   { type : String, index : true},
+    quantity                    :   { type : String, index : true},
+    disclosed_quantity          :   { type : String, index : true},
+    price                       :   { type : String, index : true},
+    trigger_price               :   { type : String, index : true},
+    average_price               :   { type : String, index : true},
+    filled_quantity             :   { type : String, index : true},
+    pending_quantity            :   { type : String, index : true},
+    cancelled_quantity          :   { type : String, index : true},
+    market_protection           :   { type : String, index : true},
+    meta                        :   { type : JSON, index : true},
+    tag                         :   { type : String, index : true}, 
+    guid                        :   { type : String, index : true},
+    stoploss                    :   { type : String, index : true},
+    trailing_stoploss           :   { type : String, index : true}
+},{timestamps:true});
+
+
+export default model('orders', Order);

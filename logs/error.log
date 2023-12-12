@@ -1,0 +1,558 @@
+
+{"level":"error","message":"invalid token","name":"JsonWebTokenError","timestamp":"2023-09-09T12:25:30.269Z"}
+{"level":"error","timestamp":"2023-09-11T08:05:38.197Z"}
+{"level":"error","timestamp":"2023-09-11T08:06:44.549Z"}
+{"level":"error","timestamp":"2023-09-11T08:07:23.823Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:22:46.451Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:23:29.417Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:23:33.963Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:23:38.083Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:23:55.934Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-12T05:25:08.441Z"}
+{"level":"error","timestamp":"2023-09-12T05:25:15.129Z"}
+{"level":"error","timestamp":"2023-09-12T05:26:36.891Z"}
+{"level":"error","timestamp":"2023-09-12T05:26:51.239Z"}
+{"level":"error","timestamp":"2023-09-12T07:50:42.972Z"}
+{"level":"error","timestamp":"2023-09-12T07:51:28.231Z"}
+{"level":"error","timestamp":"2023-09-12T07:58:20.443Z"}
+{"level":"error","timestamp":"2023-09-12T08:49:19.026Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T08:49:19.059Z"}
+{"level":"error","timestamp":"2023-09-12T08:51:05.523Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T08:51:05.553Z"}
+{"level":"error","timestamp":"2023-09-12T08:51:31.482Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T08:51:31.514Z"}
+{"level":"error","timestamp":"2023-09-12T08:51:53.107Z"}
+{"level":"error","timestamp":"2023-09-12T08:52:00.074Z"}
+{"level":"error","timestamp":"2023-09-12T08:54:34.145Z"}
+{"level":"error","timestamp":"2023-09-12T08:54:37.788Z"}
+{"level":"error","timestamp":"2023-09-12T08:54:38.488Z"}
+{"level":"error","timestamp":"2023-09-12T08:54:38.984Z"}
+{"level":"error","timestamp":"2023-09-12T08:54:39.514Z"}
+{"level":"error","timestamp":"2023-09-12T08:55:01.323Z"}
+{"level":"error","timestamp":"2023-09-12T08:58:28.533Z"}
+{"level":"error","timestamp":"2023-09-12T08:58:28.550Z"}
+{"level":"error","timestamp":"2023-09-12T08:58:44.257Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T08:58:44.289Z"}
+{"level":"error","timestamp":"2023-09-12T09:04:54.291Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-12T09:04:54.308Z"}
+{"level":"error","timestamp":"2023-09-12T09:05:45.551Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-12T09:05:45.584Z"}
+{"level":"error","timestamp":"2023-09-12T09:06:29.080Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T09:06:29.116Z"}
+{"level":"error","timestamp":"2023-09-12T09:06:30.779Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T09:06:30.787Z"}
+{"level":"error","timestamp":"2023-09-12T09:07:10.740Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T09:07:10.778Z"}
+{"level":"error","timestamp":"2023-09-12T09:07:18.531Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T09:07:18.544Z"}
+{"level":"error","timestamp":"2023-09-12T09:07:38.812Z"}
+{"level":"error","timestamp":"2023-09-12T10:07:53.647Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T10:07:53.683Z"}
+{"level":"error","timestamp":"2023-09-12T10:08:29.238Z"}
+{"level":"error","timestamp":"2023-09-12T10:08:43.189Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T10:08:43.228Z"}
+{"level":"error","timestamp":"2023-09-12T10:12:51.312Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T10:12:51.346Z"}
+{"level":"error","timestamp":"2023-09-12T10:17:32.510Z"}
+{"level":"error","timestamp":"2023-09-12T10:18:39.341Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T10:18:39.376Z"}
+{"level":"error","timestamp":"2023-09-12T10:18:54.418Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T10:18:54.456Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:30.900Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:31.861Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:32.309Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:32.605Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:32.788Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:32.987Z"}
+{"level":"error","timestamp":"2023-09-12T10:19:33.244Z"}
+{"level":"error","timestamp":"2023-09-12T11:00:32.055Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T11:00:32.095Z"}
+{"level":"error","timestamp":"2023-09-12T11:00:32.998Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T11:00:33.011Z"}
+{"level":"error","timestamp":"2023-09-12T11:00:33.478Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T11:00:33.489Z"}
+{"level":"error","timestamp":"2023-09-12T11:01:26.299Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T11:01:26.339Z"}
+{"level":"error","timestamp":"2023-09-12T11:01:50.427Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-12T11:01:50.463Z"}
+{"level":"error","timestamp":"2023-09-12T11:02:22.015Z"}
+{"level":"error","timestamp":"2023-09-12T11:03:01.927Z"}
+{"level":"error","timestamp":"2023-09-12T11:03:11.533Z"}
+{"level":"error","timestamp":"2023-09-12T11:04:12.303Z"}
+{"_message":"role validation failed","errors":{"addedBy":{"kind":"string","message":"Cast to string failed for value \"{\n  user: {\n    role: 'customer',\n    _id: '64fb0bd2c140c24a57962cb2',\n    name: 'Nikhil Sachan',\n    email: 'nikhil@gmail.com',\n    mobile: 9596969695,\n    image: null,\n    password: '$2b$10$8lOoFPySNDwerDihB0MVbuuQ.TPnZuvqRuGtb.jyx/9i8ZQIbsYca',\n    dob: '07-09-1998',\n    status: true,\n    createdAt: '2023-09-08T11:56:02.420Z',\n    updatedAt: '2023-09-08T11:56:02.420Z',\n    __v: 0,\n    type: 'admin'\n  },\n  iat: 1694421010\n}\" (type Object) at path \"addedBy\"","name":"CastError","path":"addedBy","reason":null,"stringValue":"\"{\n  user: {\n    role: 'customer',\n    _id: '64fb0bd2c140c24a57962cb2',\n    name: 'Nikhil Sachan',\n    email: 'nikhil@gmail.com',\n    mobile: 9596969695,\n    image: null,\n    password: '$2b$10$8lOoFPySNDwerDihB0MVbuuQ.TPnZuvqRuGtb.jyx/9i8ZQIbsYca',\n    dob: '07-09-1998',\n    status: true,\n    createdAt: '2023-09-08T11:56:02.420Z',\n    updatedAt: '2023-09-08T11:56:02.420Z',\n    __v: 0,\n    type: 'admin'\n  },\n  iat: 1694421010\n}\"","value":{"iat":1694421010,"user":{"__v":0,"_id":"64fb0bd2c140c24a57962cb2","createdAt":"2023-09-08T11:56:02.420Z","dob":"07-09-1998","email":"nikhil@gmail.com","image":null,"mobile":9596969695,"name":"Nikhil Sachan","password":"$2b$10$8lOoFPySNDwerDihB0MVbuuQ.TPnZuvqRuGtb.jyx/9i8ZQIbsYca","role":"customer","status":true,"type":"admin","updatedAt":"2023-09-08T11:56:02.420Z"}},"valueType":"Object"}},"level":"error","message":"role validation failed: addedBy: Cast to string failed for value \"{\n  user: {\n    role: 'customer',\n    _id: '64fb0bd2c140c24a57962cb2',\n    name: 'Nikhil Sachan',\n    email: 'nikhil@gmail.com',\n    mobile: 9596969695,\n    image: null,\n    password: '$2b$10$8lOoFPySNDwerDihB0MVbuuQ.TPnZuvqRuGtb.jyx/9i8ZQIbsYca',\n    dob: '07-09-1998',\n    status: true,\n    createdAt: '2023-09-08T11:56:02.420Z',\n    updatedAt: '2023-09-08T11:56:02.420Z',\n    __v: 0,\n    type: 'admin'\n  },\n  iat: 1694421010\n}\" (type Object) at path \"addedBy\"","name":"ValidationError","timestamp":"2023-09-12T11:17:44.007Z"}
+{"_message":"role validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}}},"level":"error","message":"role validation failed: addedBy: Path `addedBy` is required.","name":"ValidationError","timestamp":"2023-09-12T11:18:58.284Z"}
+{"level":"error","timestamp":"2023-09-12T12:13:10.766Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-13T09:57:59.074Z"}
+{"level":"error","timestamp":"2023-09-13T10:08:01.479Z"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError","timestamp":"2023-09-13T10:09:14.615Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-13T10:12:53.567Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-13T10:13:40.637Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-13T10:14:58.360Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-13T10:15:09.153Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-13T10:15:32.156Z"}
+{"level":"error","timestamp":"2023-09-13T10:23:02.743Z"}
+{"level":"error","timestamp":"2023-09-13T10:23:04.201Z"}
+{"level":"error","timestamp":"2023-09-13T10:38:31.725Z"}
+{"level":"error","timestamp":"2023-09-13T10:50:45.597Z"}
+{"level":"error","timestamp":"2023-09-13T10:54:36.769Z"}
+{"level":"error","timestamp":"2023-09-13T10:57:39.903Z"}
+{"level":"error","timestamp":"2023-09-13T10:58:01.162Z"}
+{"level":"error","timestamp":"2023-09-13T11:21:38.738Z"}
+{"level":"error","timestamp":"2023-09-13T13:17:31.627Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","timestamp":"2023-09-14T04:59:04.537Z"}
+{"_message":"category validation failed","errors":{"image":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}},"level":"error","message":"category validation failed: image: Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"ValidationError","timestamp":"2023-09-14T05:00:22.842Z"}
+{"_message":"category validation failed","errors":{"image":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}},"level":"error","message":"category validation failed: image: Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"ValidationError","timestamp":"2023-09-14T05:01:18.991Z"}
+{"_message":"category validation failed","errors":{"image":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}},"level":"error","message":"category validation failed: image: Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"ValidationError","timestamp":"2023-09-14T05:03:41.087Z"}
+{"_message":"category validation failed","errors":{"image":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}},"level":"error","message":"category validation failed: image: Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"ValidationError","timestamp":"2023-09-14T05:04:02.031Z"}
+{"level":"error","timestamp":"2023-09-14T05:05:35.601Z"}
+{"_message":"category validation failed","errors":{"image":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"test\"","value":"test","valueType":"string"}},"level":"error","message":"category validation failed: image: Cast to ObjectId failed for value \"test\" (type string) at path \"image\" because of \"BSONError\"","name":"ValidationError","timestamp":"2023-09-14T05:05:49.843Z"}
+{"level":"error","timestamp":"2023-09-14T06:52:20.356Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Hair"},"level":"error","timestamp":"2023-09-14T06:52:38.930Z"}
+{"level":"error","timestamp":"2023-09-14T06:53:04.913Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","timestamp":"2023-09-14T06:53:37.241Z"}
+{"expiredAt":"2023-09-14T12:08:12.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-09-14T12:49:47.221Z"}
+{"expiredAt":"2023-09-14T12:08:12.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-09-14T12:50:30.993Z"}
+{"level":"error","timestamp":"2023-09-14T12:51:55.785Z"}
+{"level":"error","timestamp":"2023-09-14T12:52:12.054Z"}
+{"level":"error","timestamp":"2023-09-14T13:14:59.323Z"}
+{"level":"error","timestamp":"2023-09-14T13:25:39.691Z"}
+{"code":"UnknownEndpoint","hostname":"skinocare.s3.amazonaws.com","level":"error","message":"Inaccessible host: `skinocare.s3.amazonaws.com' at port `undefined'. This service may not be available in the `us-east-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"skinocare.s3.amazonaws.com","message":"getaddrinfo ENOTFOUND skinocare.s3.amazonaws.com","region":"us-east-1","retryable":true,"syscall":"getaddrinfo","time":"2023-09-14T13:27:37.805Z"},"region":"us-east-1","retryable":true,"time":"2023-09-14T13:27:37.806Z","timestamp":"2023-09-14T13:27:37.822Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"test"},"level":"error","timestamp":"2023-09-15T04:56:38.758Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-15T04:57:36.096Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"test"},"level":"error","timestamp":"2023-09-15T05:00:23.908Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"test"},"level":"error","timestamp":"2023-09-15T05:00:48.396Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Hair Product"},"level":"error","timestamp":"2023-09-15T05:32:54.888Z"}
+{"level":"error","timestamp":"2023-09-15T06:59:50.136Z"}
+{"level":"error","timestamp":"2023-09-15T07:26:17.542Z"}
+{"level":"error","timestamp":"2023-09-15T08:18:09.880Z"}
+{"level":"error","timestamp":"2023-09-15T08:18:49.768Z"}
+{"level":"error","timestamp":"2023-09-15T08:18:54.767Z"}
+{"level":"error","timestamp":"2023-09-15T08:19:39.134Z"}
+{"level":"error","timestamp":"2023-09-15T08:19:43.318Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:15.247Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:34.187Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:35.032Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:47.292Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:47.902Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:48.637Z"}
+{"level":"error","timestamp":"2023-09-15T08:21:49.131Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:02.644Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:03.412Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:03.789Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:04.051Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:04.227Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:04.443Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:04.771Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:04.979Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:05.147Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:05.307Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:05.498Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:05.650Z"}
+{"level":"error","timestamp":"2023-09-15T08:24:28.876Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-15T08:26:36.444Z"}
+{"level":"error","timestamp":"2023-09-15T08:26:53.102Z"}
+{"level":"error","timestamp":"2023-09-15T08:29:37.744Z"}
+{"level":"error","timestamp":"2023-09-15T08:29:38.365Z"}
+{"level":"error","timestamp":"2023-09-15T08:29:38.844Z"}
+{"level":"error","timestamp":"2023-09-15T08:29:45.967Z"}
+{"level":"error","timestamp":"2023-09-15T08:29:46.828Z"}
+{"level":"error","timestamp":"2023-09-15T09:38:56.204Z"}
+{"_message":"users validation failed","errors":{"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"users validation failed: name: Path `name` is required.","name":"ValidationError","timestamp":"2023-09-15T09:40:49.829Z"}
+{"level":"error","timestamp":"2023-09-15T09:41:15.216Z"}
+{"level":"error","timestamp":"2023-09-15T09:42:07.146Z"}
+{"level":"error","timestamp":"2023-09-15T09:42:22.506Z"}
+{"level":"error","timestamp":"2023-09-15T09:42:49.671Z"}
+{"level":"error","timestamp":"2023-09-15T09:45:56.305Z"}
+{"level":"error","timestamp":"2023-09-15T09:47:16.313Z"}
+{"level":"error","timestamp":"2023-09-15T09:50:45.555Z"}
+{"level":"error","timestamp":"2023-09-15T09:50:46.571Z"}
+{"level":"error","timestamp":"2023-09-15T10:06:02.160Z"}
+{"level":"error","timestamp":"2023-09-15T10:10:51.706Z"}
+{"_message":"users validation failed","errors":{"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"users validation failed: name: Path `name` is required.","name":"ValidationError","timestamp":"2023-09-15T12:11:07.921Z"}
+{"level":"error","timestamp":"2023-09-15T12:12:18.827Z"}
+{"level":"error","timestamp":"2023-09-15T12:18:53.069Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-15T12:22:17.376Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-15T12:28:30.182Z"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError","timestamp":"2023-09-15T12:30:45.435Z"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2023-09-15T12:31:17.215Z"}
+{"expiredAt":"2023-09-16T12:31:05.000Z","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2023-09-18T04:57:47.490Z"}
+{"level":"error","timestamp":"2023-09-18T05:02:25.621Z"}
+{"level":"error","timestamp":"2023-09-18T06:34:13.279Z"}
+{"level":"error","timestamp":"2023-09-18T06:35:29.586Z"}
+{"level":"error","timestamp":"2023-09-18T06:36:05.230Z"}
+{"level":"error","timestamp":"2023-09-18T06:36:48.264Z"}
+{"level":"error","timestamp":"2023-09-18T06:54:24.180Z"}
+{"level":"error","timestamp":"2023-09-18T07:06:43.480Z"}
+{"level":"error","timestamp":"2023-09-18T07:06:56.210Z"}
+{"level":"error","timestamp":"2023-09-18T07:07:40.602Z"}
+{"level":"error","timestamp":"2023-09-18T07:07:54.657Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T07:33:33.561Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T07:34:48.019Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T07:35:21.047Z"}
+{"level":"error","timestamp":"2023-09-18T07:37:29.417Z"}
+{"level":"error","timestamp":"2023-09-18T07:42:03.351Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"category\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6507fe50663e77318e6fe6dqa\" (type string) at path \"_id\" for model \"category\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"6507fe50663e77318e6fe6dqa\"","value":"6507fe50663e77318e6fe6dqa","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6507fe50663e77318e6fe6dq\" (type string) at path \"_id\" for model \"category\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"6507fe50663e77318e6fe6dq\"","value":"6507fe50663e77318e6fe6dq","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"65080308f01827fe920c9bd40\" (type string) at path \"image\" because of \"BSONError\"","name":"CastError","path":"image","reason":{},"stringValue":"\"65080308f01827fe920c9bd40\"","value":"65080308f01827fe920c9bd40","valueType":"string"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T08:21:22.522Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T08:21:57.942Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T08:23:33.933Z"}
+{"level":"error","timestamp":"2023-09-18T08:28:13.825Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T10:19:26.504Z"}
+{"level":"error","timestamp":"2023-09-18T12:16:58.674Z"}
+{"_message":"prodoct validation failed","errors":{"currentStock":{"kind":"Number","message":"Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"CastError","path":"currentStock","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"currentStock\"","value":"currentStock","valueType":"string"},"discount":{"kind":"Number","message":"Cast to Number failed for value \"discount\" (type string) at path \"discount\"","name":"CastError","path":"discount","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"discount\"","value":"discount","valueType":"string"},"min_quantity":{"kind":"Number","message":"Cast to Number failed for value \"min_quantity\" (type string) at path \"min_quantity\"","name":"CastError","path":"min_quantity","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"min_quantity\"","value":"min_quantity","valueType":"string"},"price":{"kind":"Number","message":"Cast to Number failed for value \"price\" (type string) at path \"price\"","name":"CastError","path":"price","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"price\"","value":"price","valueType":"string"},"refundable":{"kind":"Boolean","message":"Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\"","name":"CastError","path":"refundable","reason":{"kind":"boolean","message":"Cast to boolean failed for value \"refundable\" (type string) at path \"undefined\"","name":"CastError","stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"shippingCost":{"kind":"Number","message":"Cast to Number failed for value \"shippingCost\" (type string) at path \"shippingCost\"","name":"CastError","path":"shippingCost","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"shippingCost\"","value":"shippingCost","valueType":"string"},"thumbnail":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"thumbnail\" (type string) at path \"thumbnail\" because of \"BSONError\"","name":"CastError","path":"thumbnail","reason":{},"stringValue":"\"thumbnail\"","value":"thumbnail","valueType":"string"}},"level":"error","message":"prodoct validation failed: thumbnail: Cast to ObjectId failed for value \"thumbnail\" (type string) at path \"thumbnail\" because of \"BSONError\", price: Cast to Number failed for value \"price\" (type string) at path \"price\", discount: Cast to Number failed for value \"discount\" (type string) at path \"discount\", min_quantity: Cast to Number failed for value \"min_quantity\" (type string) at path \"min_quantity\", refundable: Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\", currentStock: Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\", shippingCost: Cast to Number failed for value \"shippingCost\" (type string) at path \"shippingCost\"","name":"ValidationError","timestamp":"2023-09-18T12:17:30.114Z"}
+{"_message":"prodoct validation failed","errors":{"currentStock":{"kind":"Number","message":"Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"CastError","path":"currentStock","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"currentStock\"","value":"currentStock","valueType":"string"},"discount":{"kind":"Number","message":"Cast to Number failed for value \"discount\" (type string) at path \"discount\"","name":"CastError","path":"discount","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"discount\"","value":"discount","valueType":"string"},"min_quantity":{"kind":"Number","message":"Cast to Number failed for value \"min_quantity\" (type string) at path \"min_quantity\"","name":"CastError","path":"min_quantity","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"min_quantity\"","value":"min_quantity","valueType":"string"},"price":{"kind":"Number","message":"Cast to Number failed for value \"price\" (type string) at path \"price\"","name":"CastError","path":"price","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"price\"","value":"price","valueType":"string"},"refundable":{"kind":"Boolean","message":"Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\"","name":"CastError","path":"refundable","reason":{"kind":"boolean","message":"Cast to boolean failed for value \"refundable\" (type string) at path \"undefined\"","name":"CastError","stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"shippingCost":{"kind":"Number","message":"Cast to Number failed for value \"shippingCost\" (type string) at path \"shippingCost\"","name":"CastError","path":"shippingCost","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"shippingCost\"","value":"shippingCost","valueType":"string"}},"level":"error","message":"prodoct validation failed: price: Cast to Number failed for value \"price\" (type string) at path \"price\", discount: Cast to Number failed for value \"discount\" (type string) at path \"discount\", min_quantity: Cast to Number failed for value \"min_quantity\" (type string) at path \"min_quantity\", refundable: Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\", currentStock: Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\", shippingCost: Cast to Number failed for value \"shippingCost\" (type string) at path \"shippingCost\"","name":"ValidationError","timestamp":"2023-09-18T12:18:59.171Z"}
+{"_message":"prodoct validation failed","errors":{"currentStock":{"kind":"Number","message":"Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"CastError","path":"currentStock","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"currentStock\"","value":"currentStock","valueType":"string"},"refundable":{"kind":"Boolean","message":"Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\"","name":"CastError","path":"refundable","reason":{"kind":"boolean","message":"Cast to boolean failed for value \"refundable\" (type string) at path \"undefined\"","name":"CastError","stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"stringValue":"\"refundable\"","value":"refundable","valueType":"string"}},"level":"error","message":"prodoct validation failed: refundable: Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\", currentStock: Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"ValidationError","timestamp":"2023-09-18T12:20:49.591Z"}
+{"_message":"prodoct validation failed","errors":{"currentStock":{"kind":"Number","message":"Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"CastError","path":"currentStock","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"currentStock\"","value":"currentStock","valueType":"string"},"refundable":{"kind":"Boolean","message":"Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\"","name":"CastError","path":"refundable","reason":{"kind":"boolean","message":"Cast to boolean failed for value \"refundable\" (type string) at path \"undefined\"","name":"CastError","stringValue":"\"refundable\"","value":"refundable","valueType":"string"},"stringValue":"\"refundable\"","value":"refundable","valueType":"string"}},"level":"error","message":"prodoct validation failed: refundable: Cast to Boolean failed for value \"refundable\" (type string) at path \"refundable\" because of \"CastError\", currentStock: Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"ValidationError","timestamp":"2023-09-18T12:21:05.674Z"}
+{"_message":"prodoct validation failed","errors":{"currentStock":{"kind":"Number","message":"Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"CastError","path":"currentStock","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"currentStock\"","value":"currentStock","valueType":"string"}},"level":"error","message":"prodoct validation failed: currentStock: Cast to Number failed for value \"currentStock\" (type string) at path \"currentStock\"","name":"ValidationError","timestamp":"2023-09-18T12:22:04.088Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"name"},"level":"error","timestamp":"2023-09-18T12:23:29.101Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-18T12:53:23.159Z"}
+{"level":"error","timestamp":"2023-09-18T12:55:26.441Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"name-1"},"level":"error","timestamp":"2023-09-18T13:14:23.239Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Product-1"},"level":"error","timestamp":"2023-09-19T05:34:29.352Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"650841092a95e2de706332505\" (type string) at path \"_id\" for model \"prodoct\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"650841092a95e2de706332505\"","value":"650841092a95e2de706332505","valueType":"string"}
+{"level":"error","timestamp":"2023-09-19T08:21:18.799Z"}
+{"level":"error","timestamp":"2023-09-19T09:42:57.949Z"}
+{"level":"error","timestamp":"2023-09-19T12:25:52.411Z"}
+{"level":"error","timestamp":"2023-09-19T12:26:23.065Z"}
+{"level":"error","timestamp":"2023-09-19T12:26:23.930Z"}
+{"_message":"faq validation failed","errors":{"addedBy":{"kind":"string","message":"Cast to string failed for value \"Promise { <pending> }\" (type Promise) at path \"addedBy\"","name":"CastError","path":"addedBy","reason":null,"stringValue":"\"Promise { <pending> }\"","value":{},"valueType":"Promise"}},"level":"error","message":"faq validation failed: addedBy: Cast to string failed for value \"Promise { <pending> }\" (type Promise) at path \"addedBy\"","name":"ValidationError","timestamp":"2023-09-19T13:06:40.298Z"}
+{"_message":"faq validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}}},"level":"error","message":"faq validation failed: addedBy: Path `addedBy` is required.","name":"ValidationError","timestamp":"2023-09-19T13:08:29.228Z"}
+{"level":"error","timestamp":"2023-09-19T13:22:09.462Z"}
+{"level":"error","timestamp":"2023-09-19T13:23:18.205Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-20T05:19:35.115Z"}
+{"level":"error","timestamp":"2023-09-20T07:40:15.944Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:09.596Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:36.853Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:37.644Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:43.016Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:44.061Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"image":{"kind":"required","message":"Path `image` is required.","name":"ValidatorError","path":"image","properties":{"message":"Path `image` is required.","path":"image","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required., name: Path `name` is required., image: Path `image` is required., description: Path `description` is required.","name":"ValidationError","timestamp":"2023-09-20T09:47:56.734Z"}
+{"_message":"testimonial validation failed","errors":{"addedBy":{"kind":"required","message":"Path `addedBy` is required.","name":"ValidatorError","path":"addedBy","properties":{"message":"Path `addedBy` is required.","path":"addedBy","type":"required"}}},"level":"error","message":"testimonial validation failed: addedBy: Path `addedBy` is required.","name":"ValidationError","timestamp":"2023-09-20T09:48:12.991Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-20T09:51:02.038Z"}
+{"level":"error","message":"jwt must be provided","name":"JsonWebTokenError","timestamp":"2023-09-20T09:52:28.233Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:06:17.957Z","timestamp":"2023-09-20T10:06:17.957Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:15.857Z","timestamp":"2023-09-20T10:07:15.857Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:25.144Z","timestamp":"2023-09-20T10:07:25.144Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:26.063Z","timestamp":"2023-09-20T10:07:26.063Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:26.768Z","timestamp":"2023-09-20T10:07:26.768Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:27.296Z","timestamp":"2023-09-20T10:07:27.296Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:36.714Z","timestamp":"2023-09-20T10:07:36.714Z"}
+{"code":"InvalidParameterException","level":"error","message":"The expiration must be a number, received string","time":"2023-09-20T10:07:37.487Z","timestamp":"2023-09-20T10:07:37.487Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-20T10:11:50.343Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-20T10:12:30.905Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-20T10:31:11.887Z"}
+{"_message":"page validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}},"slug":{"kind":"required","message":"Path `slug` is required.","name":"ValidatorError","path":"slug","properties":{"message":"Path `slug` is required.","path":"slug","type":"required"}}},"level":"error","message":"page validation failed: name: Path `name` is required., slug: Path `slug` is required., content: Path `content` is required.","name":"ValidationError","timestamp":"2023-09-21T05:14:45.474Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"lorem-ipsum"},"level":"error","timestamp":"2023-09-21T05:20:32.945Z"}
+{"level":"error","timestamp":"2023-09-21T06:09:17.325Z"}
+{"level":"error","timestamp":"2023-09-21T12:37:45.067Z"}
+{"level":"error","timestamp":"2023-09-22T05:15:05.245Z"}
+{"level":"error","timestamp":"2023-09-22T07:25:05.293Z"}
+{"code":11000,"index":0,"keyPattern":{"name":1},"keyValue":{"name":"Product-11"},"level":"error","timestamp":"2023-09-22T07:58:28.019Z"}
+{"level":"error","timestamp":"2023-09-22T08:22:24.188Z"}
+{"level":"error","timestamp":"2023-09-25T06:40:44.755Z"}
+{"level":"error","timestamp":"2023-09-25T06:41:44.400Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"product-21"},"level":"error","timestamp":"2023-09-25T08:08:34.611Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"product-21"},"level":"error","timestamp":"2023-09-25T08:08:40.351Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"product-21"},"level":"error","timestamp":"2023-09-25T08:08:40.925Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"product-21"},"level":"error","timestamp":"2023-09-25T08:08:41.412Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T06:28:55.174Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:10:04.090Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:43:57.154Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:44:42.360Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:49:27.049Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:50:00.053Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T07:52:02.858Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs1"},"level":"error","timestamp":"2023-09-26T08:19:49.043Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs1"},"level":"error","timestamp":"2023-09-26T08:20:06.572Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs1"},"level":"error","timestamp":"2023-09-26T08:21:18.000Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T09:34:05.050Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T09:59:29.680Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T09:59:53.295Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"faqs"},"level":"error","timestamp":"2023-09-26T10:04:34.856Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T10:33:54.429Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T10:54:21.104Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T10:59:22.703Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T11:00:08.908Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-26T11:00:49.915Z"}
+{"code":11000,"index":0,"keyPattern":{"question":1},"keyValue":{"question":"How To Use Hair Products?"},"level":"error","timestamp":"2023-09-26T11:11:48.857Z"}
+{"code":11000,"index":0,"keyPattern":{"question":1},"keyValue":{"question":"How To Use Hair Products?"},"level":"error","timestamp":"2023-09-26T11:12:12.320Z"}
+{"code":11000,"index":0,"keyPattern":{"question":1},"keyValue":{"question":"How To Use Hair Products?"},"level":"error","timestamp":"2023-09-26T11:12:12.926Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"650407d88837w8a46273bee8a\" (type string) at path \"_id\" for model \"category\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"650407d88837w8a46273bee8a\"","value":"650407d88837w8a46273bee8a","valueType":"string"}
+{"level":"error","timestamp":"2023-09-26T11:45:25.112Z"}
+{"level":"error","timestamp":"2023-09-26T12:32:15.067Z"}
+{"level":"error","timestamp":"2023-09-26T12:32:43.975Z"}
+{"level":"error","timestamp":"2023-09-26T12:33:19.431Z"}
+{"level":"error","timestamp":"2023-09-26T12:33:52.776Z"}
+{"level":"error","timestamp":"2023-09-26T12:34:21.830Z"}
+{"level":"error","timestamp":"2023-09-26T13:23:04.188Z"}
+{"_message":"user validation failed","errors":{"role":{"kind":"required","message":"Path `role` is required.","name":"ValidatorError","path":"role","properties":{"message":"Path `role` is required.","path":"role","type":"required"}}},"level":"error","message":"user validation failed: role: Path `role` is required.","name":"ValidationError","timestamp":"2023-09-27T05:46:55.454Z"}
+{"level":"error","timestamp":"2023-09-27T06:51:39.833Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-27T10:41:58.932Z"}
+{"level":"error","timestamp":"2023-09-28T09:39:59.877Z"}
+{"level":"error","timestamp":"2023-09-28T10:17:35.130Z"}
+{"level":"error","timestamp":"2023-09-28T10:58:53.451Z"}
+{"level":"error","timestamp":"2023-09-28T11:12:22.163Z"}
+{"level":"error","timestamp":"2023-09-28T11:22:19.783Z"}
+{"level":"error","timestamp":"2023-09-28T11:24:01.386Z"}
+{"level":"error","timestamp":"2023-09-28T11:24:28.552Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-28T12:25:04.064Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-28T12:26:31.665Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-28T12:26:50.773Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-28T12:27:20.404Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":"anurudhsinghknp00@gmail.com"},"level":"error","timestamp":"2023-09-28T12:28:09.720Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-29T06:04:34.109Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":null},"level":"error","timestamp":"2023-09-29T06:17:23.343Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-29T06:18:19.512Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-09-29T08:01:48.704Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":null},"level":"error","timestamp":"2023-10-03T07:59:55.202Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":null},"level":"error","timestamp":"2023-10-03T08:11:25.510Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":null},"level":"error","timestamp":"2023-10-03T08:11:55.481Z"}
+{"level":"error","timestamp":"2023-10-03T13:20:35.412Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-10-04T05:05:42.525Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-10-04T12:37:19.927Z"}
+{"_message":"ShippingAddress validation failed","errors":{"alternativePhone":{"kind":"required","message":"Path `alternativePhone` is required.","name":"ValidatorError","path":"alternativePhone","properties":{"message":"Path `alternativePhone` is required.","path":"alternativePhone","type":"required"}},"area":{"kind":"required","message":"Path `area` is required.","name":"ValidatorError","path":"area","properties":{"message":"Path `area` is required.","path":"area","type":"required"}},"country":{"kind":"required","message":"Path `country` is required.","name":"ValidatorError","path":"country","properties":{"message":"Path `country` is required.","path":"country","type":"required"}},"district":{"kind":"required","message":"Path `district` is required.","name":"ValidatorError","path":"district","properties":{"message":"Path `district` is required.","path":"district","type":"required"}},"houseNo":{"kind":"required","message":"Path `houseNo` is required.","name":"ValidatorError","path":"houseNo","properties":{"message":"Path `houseNo` is required.","path":"houseNo","type":"required"}},"landmark":{"kind":"required","message":"Path `landmark` is required.","name":"ValidatorError","path":"landmark","properties":{"message":"Path `landmark` is required.","path":"landmark","type":"required"}},"locatity":{"kind":"required","message":"Path `locatity` is required.","name":"ValidatorError","path":"locatity","properties":{"message":"Path `locatity` is required.","path":"locatity","type":"required"}},"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}},"phone":{"kind":"required","message":"Path `phone` is required.","name":"ValidatorError","path":"phone","properties":{"message":"Path `phone` is required.","path":"phone","type":"required"}},"pincode":{"kind":"required","message":"Path `pincode` is required.","name":"ValidatorError","path":"pincode","properties":{"message":"Path `pincode` is required.","path":"pincode","type":"required"}},"state":{"kind":"required","message":"Path `state` is required.","name":"ValidatorError","path":"state","properties":{"message":"Path `state` is required.","path":"state","type":"required"}}},"level":"error","message":"ShippingAddress validation failed: name: Path `name` is required., phone: Path `phone` is required., alternativePhone: Path `alternativePhone` is required., pincode: Path `pincode` is required., district: Path `district` is required., state: Path `state` is required., country: Path `country` is required., area: Path `area` is required., locatity: Path `locatity` is required., landmark: Path `landmark` is required., houseNo: Path `houseNo` is required.","name":"ValidationError","timestamp":"2023-10-06T10:03:55.072Z"}
+{"level":"error","timestamp":"2023-10-06T12:05:20.635Z"}
+{"level":"error","timestamp":"2023-10-06T12:05:44.674Z"}
+{"_message":"user validation failed","errors":{"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}},"password":{"kind":"required","message":"Path `password` is required.","name":"ValidatorError","path":"password","properties":{"message":"Path `password` is required.","path":"password","type":"required"}}},"level":"error","message":"user validation failed: password: Path `password` is required., name: Path `name` is required.","name":"ValidationError","timestamp":"2023-10-06T12:06:04.608Z"}
+{"level":"error","timestamp":"2023-10-10T09:51:29.150Z"}
+{"level":"error","timestamp":"2023-10-12T09:59:43.288Z"}
+{"level":"error","timestamp":"2023-10-12T11:00:58.594Z"}
+{"level":"error","timestamp":"2023-10-12T11:07:35.665Z"}
+{"level":"error","timestamp":"2023-10-13T09:50:14.968Z"}
+{"level":"error","timestamp":"2023-10-13T09:50:33.025Z"}
+{"level":"error","timestamp":"2023-10-16T11:15:04.521Z"}
+{"level":"error","timestamp":"2023-10-16T11:15:48.128Z"}
+{"level":"error","timestamp":"2023-10-16T11:48:21.979Z"}
+{"level":"error","timestamp":"2023-10-16T12:02:26.472Z"}
+{"level":"error","timestamp":"2023-10-16T12:02:36.232Z"}
+{"level":"error","timestamp":"2023-10-16T12:03:04.408Z"}
+{"level":"error","timestamp":"2023-10-31T11:50:28.674Z"}
+{"level":"error","timestamp":"2023-10-31T11:50:36.808Z"}
+{"level":"error","timestamp":"2023-10-31T11:50:38.237Z"}
+{"level":"error","timestamp":"2023-10-31T11:53:08.791Z"}
+{"level":"error","timestamp":"2023-10-31T11:53:31.494Z"}
+{"level":"error","timestamp":"2023-10-31T11:54:56.224Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"product\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"product\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}
+{"level":"error","timestamp":"2023-10-31T12:03:01.671Z"}
+{"level":"error","timestamp":"2023-10-31T12:03:20.078Z"}
+{"level":"error","timestamp":"2023-10-31T12:04:46.248Z"}
+{"level":"error","timestamp":"2023-10-31T12:06:07.351Z"}
+{"level":"error","timestamp":"2023-10-31T12:06:11.218Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-10-31T12:33:54.525Z"}
+{"level":"error","timestamp":"2023-10-31T13:05:57.667Z"}
+{"level":"error","timestamp":"2023-10-31T13:13:49.846Z"}
+{"level":"error","timestamp":"2023-10-31T13:24:19.235Z"}
+{"_message":"product validation failed","errors":{"whenToUse":{"kind":"required","message":"Path `whenToUse` is required.","name":"ValidatorError","path":"whenToUse","properties":{"message":"Path `whenToUse` is required.","path":"whenToUse","type":"required"}}},"level":"error","message":"product validation failed: whenToUse: Path `whenToUse` is required.","name":"ValidationError","timestamp":"2023-10-31T13:30:20.222Z"}
+{"_message":"product validation failed","errors":{"whenToUse":{"kind":"required","message":"Path `whenToUse` is required.","name":"ValidatorError","path":"whenToUse","properties":{"message":"Path `whenToUse` is required.","path":"whenToUse","type":"required"}}},"level":"error","message":"product validation failed: whenToUse: Path `whenToUse` is required.","name":"ValidationError","timestamp":"2023-10-31T13:32:29.213Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-01T05:04:53.021Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-01T05:04:53.035Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-01T05:04:53.062Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"_id\" for model \"order\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}
+{"level":"error","timestamp":"2023-11-01T11:47:46.566Z"}
+{"level":"error","timestamp":"2023-11-01T11:47:56.276Z"}
+{"level":"error","timestamp":"2023-11-01T11:49:07.250Z"}
+{"level":"error","timestamp":"2023-11-01T11:55:14.742Z"}
+{"level":"error","timestamp":"2023-11-02T04:49:15.071Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"keratoderm-tablet"},"level":"error","timestamp":"2023-11-02T12:55:44.267Z"}
+{"code":11000,"index":0,"keyPattern":{"slug":1},"keyValue":{"slug":"keratoderm-tablet"},"level":"error","timestamp":"2023-11-02T12:56:00.867Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:49.495Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:49.990Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:50.201Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:50.368Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:50.594Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:50.738Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:50.932Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:51.280Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:51.450Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-02T13:06:51.684Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:05:47.439Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:08:52.654Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:08:54.297Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:08:54.545Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:08:54.811Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T08:09:09.348Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T09:31:25.065Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T09:33:45.486Z"}
+{"_message":"ShippingAddress validation failed","errors":{"country":{"kind":"required","message":"Path `country` is required.","name":"ValidatorError","path":"country","properties":{"message":"Path `country` is required.","path":"country","type":"required","value":""},"value":""},"state":{"kind":"required","message":"Path `state` is required.","name":"ValidatorError","path":"state","properties":{"message":"Path `state` is required.","path":"state","type":"required","value":""},"value":""}},"level":"error","message":"ShippingAddress validation failed: state: Path `state` is required., country: Path `country` is required.","name":"ValidationError","timestamp":"2023-11-03T11:49:22.626Z"}
+{"_message":"ShippingAddress validation failed","errors":{"country":{"kind":"required","message":"Path `country` is required.","name":"ValidatorError","path":"country","properties":{"message":"Path `country` is required.","path":"country","type":"required","value":""},"value":""}},"level":"error","message":"ShippingAddress validation failed: country: Path `country` is required.","name":"ValidationError","timestamp":"2023-11-03T11:53:46.359Z"}
+{"_message":"ShippingAddress validation failed","errors":{"country":{"kind":"required","message":"Path `country` is required.","name":"ValidatorError","path":"country","properties":{"message":"Path `country` is required.","path":"country","type":"required","value":""},"value":""}},"level":"error","message":"ShippingAddress validation failed: country: Path `country` is required.","name":"ValidationError","timestamp":"2023-11-03T11:59:24.295Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T12:02:55.025Z"}
+{"level":"error","timestamp":"2023-11-03T12:03:06.694Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T12:05:02.237Z"}
+{"level":"error","timestamp":"2023-11-03T12:05:10.579Z"}
+{"level":"error","timestamp":"2023-11-03T12:09:10.697Z"}
+{"level":"error","timestamp":"2023-11-03T12:15:59.564Z"}
+{"level":"error","timestamp":"2023-11-03T12:19:45.938Z"}
+{"level":"error","timestamp":"2023-11-03T12:20:38.538Z"}
+{"level":"error","timestamp":"2023-11-03T12:22:11.232Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T12:46:45.011Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-03T12:46:51.483Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:10:56.655Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:10:57.776Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:10:59.028Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:11:04.668Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:12:40.882Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:16.982Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:21.669Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:21.848Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:22.160Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:22.602Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:16:22.812Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:17:05.979Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:33.620Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:34.302Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:34.493Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:34.697Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:34.943Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:35.160Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:35.361Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:35.558Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:35.742Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:36.160Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:37.863Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:38.008Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:38.192Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-04T13:31:38.359Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T11:55:13.152Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T11:57:47.857Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T11:58:31.549Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T11:59:15.546Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T11:59:57.945Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:00:31.625Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:03:09.423Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:04:08.316Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:04:37.558Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:05:27.483Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2023-11-24T12:07:10.232Z"}
+{"level":"error","timestamp":"2023-11-24T12:59:29.828Z"}
+{"level":"error","timestamp":"2023-11-24T13:07:56.380Z"}
+{"level":"error","timestamp":"2023-11-27T05:51:17.669Z"}
+{"level":"error","timestamp":"2023-11-27T05:53:15.894Z"}
+{"level":"error","timestamp":"2023-11-27T06:17:49.874Z"}
+{"level":"error","timestamp":"2023-11-27T06:34:07.856Z"}
+{"level":"error","timestamp":"2023-11-29T07:45:20.094Z"}
+{"level":"error","timestamp":"2023-11-29T07:49:56.444Z"}
+{"level":"error","timestamp":"2023-11-29T10:35:06.731Z"}
+{"code":"EBUSY","errno":-4082,"level":"error","path":"nse_instruments.csv","syscall":"open","timestamp":"2023-11-29T10:42:16.987Z"}
+{"code":"EBUSY","errno":-4082,"level":"error","path":"nse_instruments.csv","syscall":"open","timestamp":"2023-11-29T11:46:37.170Z"}
+{"level":"error","timestamp":"2023-11-29T12:27:44.550Z"}
+{"level":"error","timestamp":"2023-11-29T12:31:20.490Z"}
+{"level":"error","timestamp":"2023-11-29T12:31:39.695Z"}
+{"level":"error","timestamp":"2023-11-29T12:36:12.797Z"}
+{"level":"error","timestamp":"2023-11-29T12:39:37.747Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-11-29T12:40:31.467Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-11-29T12:44:10.266Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-11-29T12:45:16.016Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-11-29T12:45:30.738Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:46:22.012Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:48:28.682Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:49:13.992Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:49:37.343Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:51:19.439Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:51:43.611Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:55:16.318Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:56:39.247Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T12:57:42.177Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:04:14.007Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:10:31.069Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:10:45.667Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:11:48.935Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:12:26.497Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:15:23.900Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid from date","status":"error","timestamp":"2023-11-29T13:15:38.419Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-11-30T08:05:13.877Z"}
+{"code":"ERR_BAD_REQUEST","config":{"adapter":["xhr","http"],"env":{},"headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, compress, deflate, br","Authorization":"token covt43dshs0w6fen:rxT1YueOJezQUPhgkJ8x8UqAffYEVXHB","Cookie":"_cfuvid=P.n4fnLkGdHaJdcBtniWV3YOCeYNhlqPgshYUsGzoGM-1701238169034-0-604800000","User-Agent":"axios/1.6.2","X-Kite-Version":"3"},"maxBodyLength":null,"maxContentLength":-1,"method":"get","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"https://api.kite.trade/instruments/historical/258825/day?from=2023-01-01&to=2023-12-31","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"message":"Request failed with status code 403","name":"AxiosError","stack":"AxiosError: Request failed with status code 403\n    at settle (file:///D:/nodeJsProjects/octopus/Backend/node_modules/axios/lib/core/settle.js:19:12)\n    at Unzip.handleStreamEnd (file:///D:/nodeJsProjects/octopus/Backend/node_modules/axios/lib/adapters/http.js:585:11)\n    at Unzip.emit (node:events:525:35)\n    at Unzip.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","status":403}
+{"level":"error","timestamp":"2023-11-30T10:17:24.989Z"}
+{"level":"error","timestamp":"2023-11-30T10:18:08.024Z"}
+{"level":"error","timestamp":"2023-11-30T10:18:58.318Z"}
+{"level":"error","timestamp":"2023-11-30T10:20:11.571Z"}
+{"level":"error","timestamp":"2023-11-30T10:20:55.236Z"}
+{"level":"error","timestamp":"2023-11-30T10:22:43.419Z"}
+{"level":"error","timestamp":"2023-11-30T10:28:51.458Z"}
+{"level":"error","timestamp":"2023-11-30T10:36:36.173Z"}
+{"level":"error","timestamp":"2023-11-30T11:07:22.378Z"}
+{"level":"error","timestamp":"2023-11-30T11:07:35.229Z"}
+{"level":"error","timestamp":"2023-11-30T11:42:12.201Z"}
+{"level":"error","timestamp":"2023-11-30T12:38:41.434Z"}
+{"level":"error","timestamp":"2023-11-30T12:39:10.426Z"}
+{"level":"error","timestamp":"2023-11-30T12:42:44.303Z"}
+{"level":"error","timestamp":"2023-11-30T12:43:08.505Z"}
+{"level":"error","timestamp":"2023-11-30T12:44:28.883Z"}
+{"level":"error","timestamp":"2023-11-30T12:45:11.024Z"}
+{"level":"error","timestamp":"2023-11-30T12:45:54.664Z"}
+{"level":"error","timestamp":"2023-11-30T13:05:52.375Z"}
+{"level":"error","timestamp":"2023-11-30T13:07:38.458Z"}
+{"level":"error","timestamp":"2023-12-01T06:49:22.894Z"}
+{"level":"error","timestamp":"2023-12-01T06:52:45.049Z"}
+{"level":"error","timestamp":"2023-12-01T06:53:00.692Z"}
+{"level":"error","timestamp":"2023-12-01T06:53:11.381Z"}
+{"data":null,"error_type":"NetworkException","level":"error","message":"No response from server with error code: ECONNABORTED","timestamp":"2023-12-01T13:03:15.160Z"}
+{"data":null,"error_type":"NetworkException","level":"error","message":"No response from server with error code: ECONNABORTED","timestamp":"2023-12-01T13:05:30.288Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-12-04T09:54:39.965Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-12-04T09:55:21.369Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-12-04T09:56:17.828Z"}
+{"level":"error","timestamp":"2023-12-05T06:08:42.175Z"}
+{"level":"error","timestamp":"2023-12-05T06:09:09.737Z"}
+{"level":"error","timestamp":"2023-12-05T06:10:42.080Z"}
+{"level":"error","timestamp":"2023-12-05T06:11:46.309Z"}
+{"level":"error","timestamp":"2023-12-05T06:12:13.001Z"}
+{"level":"error","timestamp":"2023-12-05T06:12:24.154Z"}
+{"level":"error","timestamp":"2023-12-05T06:12:31.711Z"}
+{"level":"error","timestamp":"2023-12-05T06:12:42.379Z"}
+{"level":"error","timestamp":"2023-12-05T06:13:50.355Z"}
+{"level":"error","timestamp":"2023-12-05T06:17:36.747Z"}
+{"level":"error","timestamp":"2023-12-05T06:23:16.929Z"}
+{"level":"error","timestamp":"2023-12-05T06:23:34.921Z"}
+{"level":"error","timestamp":"2023-12-05T06:25:07.588Z"}
+{"level":"error","timestamp":"2023-12-05T06:30:02.545Z"}
+{"level":"error","timestamp":"2023-12-05T07:12:27.160Z"}
+{"level":"error","timestamp":"2023-12-05T07:12:58.227Z"}
+{"level":"error","timestamp":"2023-12-05T08:10:57.062Z"}
+{"data":null,"error_type":"TokenException","level":"error","message":"Incorrect `api_key` or `access_token`.","status":"error","timestamp":"2023-12-06T04:52:11.348Z"}
+{"level":"error","timestamp":"2023-12-07T07:42:57.413Z"}
+{"code":"ERR_BAD_REQUEST","config":{"adapter":["xhr","http"],"env":{},"headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, compress, deflate, br","Authorization":"token covt43dshs0w6fen:AR9ndCvj8I40i1QEpVpKBAYj74B5RZRH","Cookie":"_cfuvid=P.n4fnLkGdHaJdcBtniWV3YOCeYNhlqPgshYUsGzoGM-1701238169034-0-604800000","User-Agent":"axios/1.6.2","X-Kite-Version":"3"},"maxBodyLength":null,"maxContentLength":-1,"method":"get","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"https://api.kite.trade/instruments/historical/258825aaa/day?from=2023-01-01&to=2023-12-31","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"message":"Request failed with status code 400","name":"AxiosError","stack":"AxiosError: Request failed with status code 400\n    at settle (file:///D:/nodeJsProjects/octopus/Backend/node_modules/axios/lib/core/settle.js:19:12)\n    at IncomingMessage.handleStreamEnd (file:///D:/nodeJsProjects/octopus/Backend/node_modules/axios/lib/adapters/http.js:585:11)\n    at IncomingMessage.emit (node:events:525:35)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","status":400}
+{"level":"error","message":"invalid token","timestamp":"2023-12-07T09:36:15.380Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid token","status":"error","timestamp":"2023-12-07T09:37:18.244Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid token","status":"error","timestamp":"2023-12-07T09:39:41.092Z"}
+{"data":null,"error_type":"InputException","level":"error","message":"invalid token","status":"error","timestamp":"2023-12-07T09:40:16.829Z"}
+{"level":"error","timestamp":"2023-12-11T07:55:40.497Z"}
+{"level":"error","timestamp":"2023-12-11T08:06:43.012Z"}
+{"level":"error","timestamp":"2023-12-11T08:08:43.027Z"}
+{"level":"error","timestamp":"2023-12-11T08:13:25.656Z"}
+{"level":"error","timestamp":"2023-12-11T08:26:04.015Z"}
+{"level":"error","timestamp":"2023-12-11T08:29:24.934Z"}
+{"level":"error","timestamp":"2023-12-11T08:30:52.423Z"}
+{"level":"error","timestamp":"2023-12-11T09:25:01.751Z"}
+{"level":"error","timestamp":"2023-12-11T09:25:10.994Z"}
+{"level":"error","timestamp":"2023-12-11T09:29:22.473Z"}
+{"level":"error","timestamp":"2023-12-11T09:32:21.241Z"}
+{"level":"error","timestamp":"2023-12-11T09:40:44.209Z"}
+{"level":"error","timestamp":"2023-12-11T09:42:28.985Z"}
+{"level":"error","timestamp":"2023-12-11T10:06:53.167Z"}
+{"level":"error","timestamp":"2023-12-11T10:10:57.418Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T12:59:23.081Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T12:59:24.649Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T12:59:25.572Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T12:59:41.859Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:00:15.344Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:01:38.165Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:02:11.770Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:02:16.222Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:02:25.591Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:02:29.533Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:08:13.945Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:08:26.598Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:08:54.265Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:11:02.199Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:11:14.703Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:11:33.601Z"}
+{"code":11000,"index":0,"keyPattern":{"aadhar":1},"keyValue":{"aadhar":null},"level":"error","timestamp":"2023-12-11T13:12:12.567Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:17:46.231Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:20:23.301Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:20:25.754Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:21:39.871Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:23:03.219Z"}
+{"code":11000,"index":0,"keyPattern":{"mobile":1},"keyValue":{"mobile":null},"level":"error","timestamp":"2023-12-11T13:23:25.607Z"}

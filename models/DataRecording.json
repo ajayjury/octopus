@@ -1,0 +1,624 @@
+{
+  "_id": {
+    "$oid": "65715f45d4d38670448e2a2d"
+  },
+  "instrument_token": "256265",
+  "tradingsymbol": null,
+  "name": null,
+  "tradable": "false",
+  "mode": "full",
+  "last_price": "20907.9",
+  "last_traded_quantity": null,
+  "average_traded_price": null,
+  "volume_traded": null,
+  "total_buy_quantity": null,
+  "change": "-0.14232699866747195",
+  "last_trade_time": null,
+  "exchange_timestamp": {
+    "$date": "2023-12-07T05:59:33.000Z"
+  },
+  "ltp": {
+    "NFO:NIFTY 50": {
+      "instrument_token": 256265,
+      "last_price": 20907.9
+    },
+    "NFO:NIFTY24JAN20850PE": {
+      "instrument_token": 14479618,
+      "last_price": 238.2
+    },
+    "NFO:NIFTY24JAN20900CE": {
+      "instrument_token": 14479874,
+      "last_price": 495.1
+    },
+    "NFO:NIFTY24JAN20900PE": {
+      "instrument_token": 14480130,
+      "last_price": 257.95
+    },
+    "NFO:NIFTY24JAN20950CE": {
+      "instrument_token": 14480386,
+      "last_price": 471.05
+    }
+  },
+  "ltp1": {
+    "14479618": {
+      "instrument_token": 14479618,
+      "timestamp": "2023-12-07 11:29:30",
+      "last_trade_time": "2023-12-07 11:22:25",
+      "last_price": 238.2,
+      "last_quantity": 100,
+      "buy_quantity": 8400,
+      "sell_quantity": 9450,
+      "volume": 7050,
+      "average_price": 252.13,
+      "oi": 9550,
+      "oi_day_high": 9600,
+      "oi_day_low": 6100,
+      "net_change": 0,
+      "lower_circuit_limit": 32.9,
+      "upper_circuit_limit": 545,
+      "ohlc": {
+        "open": 241.95,
+        "high": 260,
+        "low": 235,
+        "close": 238.25
+      },
+      "depth": {
+        "buy": [
+          {
+            "price": 239.6,
+            "quantity": 100,
+            "orders": 1
+          },
+          {
+            "price": 239.55,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 239.5,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 239.25,
+            "quantity": 100,
+            "orders": 1
+          },
+          {
+            "price": 238.8,
+            "quantity": 1000,
+            "orders": 1
+          }
+        ],
+        "sell": [
+          {
+            "price": 241.4,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 241.65,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 242.05,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 242.15,
+            "quantity": 100,
+            "orders": 1
+          },
+          {
+            "price": 243.6,
+            "quantity": 600,
+            "orders": 1
+          }
+        ]
+      }
+    },
+    "vwap": 251.02869047619043,
+    "ema12": [
+      255.09166666666667,
+      255.23141025641027,
+      255.095808678501,
+      254.98106888180854,
+      254.9685967461457,
+      254.28881263135406,
+      252.82130299576113,
+      251.57956407333634,
+      249.62886190820768,
+      247.97826776848342,
+      246.58161118871675,
+      244.7998248519911,
+      243.39215949014633,
+      242.6933657224315,
+      242.00207868821127,
+      241.41714350540954
+    ],
+    "volsma20": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      295,
+      267.5,
+      252.5,
+      262.5,
+      255,
+      270,
+      280,
+      280
+    ]
+  },
+  "ltp2": {
+    "14479874": {
+      "instrument_token": 14479874,
+      "timestamp": "2023-12-07 11:29:30",
+      "last_trade_time": "2023-12-07 11:28:33",
+      "last_price": 495.1,
+      "last_quantity": 50,
+      "buy_quantity": 8950,
+      "sell_quantity": 10500,
+      "volume": 23750,
+      "average_price": 474.39,
+      "oi": 75700,
+      "oi_day_high": 76450,
+      "oi_day_low": 74650,
+      "net_change": 0,
+      "lower_circuit_limit": 101.05,
+      "upper_circuit_limit": 830.75,
+      "ohlc": {
+        "open": 464.5,
+        "high": 510.3,
+        "low": 454.5,
+        "close": 515.95
+      },
+      "depth": {
+        "buy": [
+          {
+            "price": 491.2,
+            "quantity": 150,
+            "orders": 2
+          },
+          {
+            "price": 491.15,
+            "quantity": 400,
+            "orders": 1
+          },
+          {
+            "price": 490.95,
+            "quantity": 400,
+            "orders": 1
+          },
+          {
+            "price": 490.8,
+            "quantity": 400,
+            "orders": 1
+          },
+          {
+            "price": 490,
+            "quantity": 350,
+            "orders": 1
+          }
+        ],
+        "sell": [
+          {
+            "price": 493.6,
+            "quantity": 500,
+            "orders": 3
+          },
+          {
+            "price": 493.8,
+            "quantity": 400,
+            "orders": 1
+          },
+          {
+            "price": 494,
+            "quantity": 750,
+            "orders": 2
+          },
+          {
+            "price": 494.5,
+            "quantity": 350,
+            "orders": 1
+          },
+          {
+            "price": 494.8,
+            "quantity": 50,
+            "orders": 1
+          }
+        ]
+      }
+    },
+    "vwap": 474.47601279317706,
+    "ema12": [
+      466.71250000000003,
+      465.30288461538464,
+      465.1716715976332,
+      464.31449135184346,
+      464.1968772977137,
+      464.3742807903731,
+      466.47054528416186,
+      468.0904613942908,
+      471.9688519490153,
+      474.0121054953206,
+      478.7794738806559,
+      483.42878559132424,
+      486.43974165419746,
+      488.9259352458594,
+      490.28348366957334,
+      491.02448618194666
+    ],
+    "volsma20": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      935,
+      892.5,
+      775,
+      830,
+      782.5,
+      697.5,
+      652.5,
+      650
+    ]
+  },
+  "ltp3": {
+    "14480130": {
+      "instrument_token": 14480130,
+      "timestamp": "2023-12-07 11:29:32",
+      "last_trade_time": "2023-12-07 11:29:13",
+      "last_price": 257.95,
+      "last_quantity": 250,
+      "buy_quantity": 14700,
+      "sell_quantity": 16700,
+      "volume": 32550,
+      "average_price": 267.33,
+      "oi": 76450,
+      "oi_day_high": 76450,
+      "oi_day_low": 70950,
+      "net_change": 0,
+      "lower_circuit_limit": 41.65,
+      "upper_circuit_limit": 575.15,
+      "ohlc": {
+        "open": 271,
+        "high": 280,
+        "low": 251,
+        "close": 255.85
+      },
+      "depth": {
+        "buy": [
+          {
+            "price": 257.15,
+            "quantity": 100,
+            "orders": 1
+          },
+          {
+            "price": 257.1,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 257,
+            "quantity": 1000,
+            "orders": 1
+          },
+          {
+            "price": 256.55,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 256.5,
+            "quantity": 700,
+            "orders": 2
+          }
+        ],
+        "sell": [
+          {
+            "price": 258.55,
+            "quantity": 850,
+            "orders": 1
+          },
+          {
+            "price": 258.6,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 258.65,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 258.85,
+            "quantity": 1050,
+            "orders": 1
+          },
+          {
+            "price": 259,
+            "quantity": 450,
+            "orders": 2
+          }
+        ]
+      }
+    },
+    "vwap": 267.59160186625195,
+    "ema12": [
+      274.09583333333336,
+      274.08108974358976,
+      273.60707593688363,
+      273.5829104081323,
+      273.49323188380424,
+      272.79427313244975,
+      271.1336157274575,
+      269.5745979232332,
+      267.4477367042743,
+      266.1403925959244,
+      264.11110142732065,
+      262.09400890004054,
+      260.7949306077266,
+      260.1187874373071,
+      259.4005124469522,
+      259.1773566858826
+    ],
+    "volsma20": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1157.5,
+      1122.5,
+      1027.5,
+      990,
+      1002.5,
+      980,
+      972.5,
+      992.5
+    ]
+  },
+  "ltp4": {
+    "14480386": {
+      "instrument_token": 14480386,
+      "timestamp": "2023-12-07 11:29:30",
+      "last_trade_time": "2023-12-07 11:23:49",
+      "last_price": 471.05,
+      "last_quantity": 50,
+      "buy_quantity": 5550,
+      "sell_quantity": 3050,
+      "volume": 1350,
+      "average_price": 437.33,
+      "oi": 5400,
+      "oi_day_high": 5800,
+      "oi_day_low": 5350,
+      "net_change": 0,
+      "lower_circuit_limit": 81.35,
+      "upper_circuit_limit": 789.45,
+      "ohlc": {
+        "open": 439.25,
+        "high": 471.05,
+        "low": 428.5,
+        "close": 483.65
+      },
+      "depth": {
+        "buy": [
+          {
+            "price": 452.95,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 452.9,
+            "quantity": 500,
+            "orders": 1
+          },
+          {
+            "price": 450.65,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 448.55,
+            "quantity": 600,
+            "orders": 1
+          },
+          {
+            "price": 430,
+            "quantity": 50,
+            "orders": 1
+          }
+        ],
+        "sell": [
+          {
+            "price": 468.4,
+            "quantity": 450,
+            "orders": 2
+          },
+          {
+            "price": 472.3,
+            "quantity": 600,
+            "orders": 1
+          },
+          {
+            "price": 478.05,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 494,
+            "quantity": 50,
+            "orders": 1
+          },
+          {
+            "price": 550,
+            "quantity": 50,
+            "orders": 1
+          }
+        ]
+      }
+    },
+    "vwap": 436.68846153846164,
+    "ema12": [
+      436.15000000000003,
+      436.08846153846156,
+      436.0363905325444,
+      435.9923304506145,
+      435.95504884282764,
+      435.923502867008,
+      435.8968101182375,
+      437.15883933081636,
+      437.8344025106908,
+      438.4060328936614,
+      438.8897201407904,
+      439.2989939652842,
+      439.6453025860097,
+      439.9383329573928,
+      444.7247432716401,
+      448.77478276831084
+    ],
+    "volsma20": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      62.5,
+      25,
+      25,
+      25,
+      17.5,
+      17.5,
+      15,
+      15
+    ]
+  },
+  "ohlc": {
+    "high": 20941.25,
+    "low": 20850.8,
+    "open": 20932.4,
+    "close": 20937.7
+  },
+  "oi": null,
+  "oi_day_high": null,
+  "depth": null,
+  "vwap": "0",
+  "ema12": [
+    20872.8125,
+    20872.372115384616,
+    20874.03794378698,
+    20874.316721665906,
+    20875.721841409613,
+    20877.241558115828,
+    20880.904395328776,
+    20884.011411432042,
+    20888.686578904035,
+    20891.819412918798,
+    20897.63181093129,
+    20902.734609249554,
+    20906.467746288083,
+    20908.11116993607,
+    20909.44791302283,
+    20909.91746486547
+  ],
+  "volsma20": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-07T05:59:33.958Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T05:59:33.958Z"
+  },
+  "__v": 0
+}
